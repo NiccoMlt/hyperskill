@@ -1,0 +1,10 @@
+type: code
+custom_name: toString() modification
+files:
+- name: src/Task.kt
+  visible: true
+  text: 'data class Box(val height: Int, val length: Int, val width: Int)'
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8531
+status: Solved
+record: -1
